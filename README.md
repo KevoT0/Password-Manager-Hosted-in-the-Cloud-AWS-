@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This Project shows detailed steps taken to set up a Password manager in the Cloud using AWS. To successfully complete this project the use of PassBolt which is deployed in AWS, the EC2 instance created has an assigned IP Address which is used to setup the Password Manager.  
+This Project shows detailed steps taken to set up a Password manager in the Cloud using AWS. To successfully complete this project the use of PassBolt which is deployed in AWS, the EC2 instance created has an assigned IP Address which is used to set up the Password Manager.  
 <br />
 
 
